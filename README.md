@@ -3,11 +3,9 @@
 - 💞️ I’m looking to collaborate on New Projects.
 - 👀 Languages I Know : Java, Python, C/C++, SQL , JavaScript, HTML/CSS,PHP &  Basic DSA.
 - 👀 Developer tools I've Worked With : Salesforce, Google Cloud Platform, VS Code, Visual Studio.
-- 📫 How to reach me by email - sainiajay882@gmail.com
    
    
    
-   
-   <!-- Markdown -->
+               <!-- Markdown -->
 
-   ![Jokes Card](https://readme-jokes.vercel.app/api)
+               ![Jokes Card](https://readme-jokes.vercel.app/api)
