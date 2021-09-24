@@ -12,7 +12,5 @@
 
 
 
-### Spotify Playing 🎧
-
-[<img src="https://https://spotify-playing-ajayysaini.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/e98c4kaw03lebiteyiixsiftu)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=e98c4kaw03lebiteyiixsiftu&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
