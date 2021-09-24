@@ -9,3 +9,10 @@
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
+### Spotify Playing 🎧
+
+[<img src="https://<https://spotify-playing-ajayysaini.vercel.app/>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/e98c4kaw03lebiteyiixsiftu)
+
