@@ -14,5 +14,5 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://spotify-playing-ajayysaini.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/e98c4kaw03lebiteyiixsiftu)
+[<img src="https://https://spotify-playing-ajayysaini.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/e98c4kaw03lebiteyiixsiftu)
 
